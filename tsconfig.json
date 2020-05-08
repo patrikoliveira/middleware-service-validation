@@ -13,7 +13,7 @@
     "target": "es5",
     "module": "commonjs",
     "declaration": true,
-    "rootDir": "./src",
+    "rootDir": "./",
     "strict": true,
     "noImplicitAny": true,
     "allowSyntheticDefaultImports": true,
