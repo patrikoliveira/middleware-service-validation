@@ -21,7 +21,7 @@
     "email": "patrikro.oliveira@gmail.com"
   },
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "express": "^4.17.1",
     "typedi": "^0.8.0",
     "typeorm": "^0.2.24"
